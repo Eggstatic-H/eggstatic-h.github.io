@@ -1,0 +1,18 @@
+/* hero section styles */
+.hero {
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin: 0 auto;
+    align-items: flex-start;
+    max-width: 100%;
+}
+
+.hero p {
+    text-align: left;
+}
+  
+.hero p span {
+    display: block;
+}
